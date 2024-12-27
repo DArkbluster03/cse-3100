@@ -37,8 +37,9 @@ export default function Home() {
       <section className="text-center mt-4">
         <h2>Welcome to Purrfect Adoption</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luc Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luc Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luc
+          Explore our collection of adorable cats waiting to find their forever homes. 
+          Each of these furry friends is unique and looking for someone to share love and companionship. 
+          Start your journey towards adopting your perfect feline friend today!
         </p>
       </section>
 
