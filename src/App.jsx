@@ -3,6 +3,7 @@ import BaseLayout from './views/BaseLayout';
 import Home from './views/Home';
 import AvailableCats from './views/AvailableCats';
 import About from './views/About';
+import ContractUs from './views/ContactUs'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/available-cats" element={<AvailableCats />} />
         <Route path="/about" element={<About />} /> 
+        <Route path="/contract-us" element={<ContractUs />} />
         
 
       </Route>
